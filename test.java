@@ -5,6 +5,7 @@ import java.util.*;
 * @author http://www.BruceEckel.com
 * @version 1.0
 */
+import cn.xlh.c05.*;
 
 public class test {
 	public static void main(String[] args) {
